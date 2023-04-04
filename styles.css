@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: pink;
+}
+
+input {
+    width: 32%;
+    height: 30px;
+}
+
+button{
+    width: 40%;
+    height: 30px;
+}
+
+.btn {
+    margin: 30px;
+}
+
+.heading {
+    margin: 30px;
+}
+
+#form {
+    display : flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.bottom {
+    margin: 50px 30px;
+}
+
+#search {
+    width: 97%
+}
+
+.table {
+    margin-top: 30px;
+}
+table {
+    width: 97%;
+}
+table, td, th{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
